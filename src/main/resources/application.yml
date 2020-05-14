@@ -1,0 +1,7 @@
+server:
+  port: 8885
+  
+baidu:
+  appID: 18186548
+  apiKey: P4A8fE7fkBwfHfCLxo3yj5CR
+  secretKey: zrWUZAR9humY6ftipQyUZ0uSeFeoZeRG
